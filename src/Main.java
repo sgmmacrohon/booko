@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 class Main {
 
-    static final String HEADER = "Booko - fresh buko, booked daily";
+    static final String HEADER = "Booko — 20% off all buko!";
 
     public static void main(String[] args) {
         System.out.println(HEADER);
